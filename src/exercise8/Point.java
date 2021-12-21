@@ -43,6 +43,7 @@ public class Point {
             return true;
         } else {
             return false;
+        }
     }
 
     public String toString() {
